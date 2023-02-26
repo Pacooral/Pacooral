@@ -1,5 +1,5 @@
 -  Hi, I’m @Pacooral
--  I’m currently learning cs61A
+-  I’m currently learning weblab(MIT)
 -  You can reach me on Edawn_zhang@outlook.com 
 
 <!---
