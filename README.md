@@ -13,7 +13,6 @@
                                                                                                                                                                                                                      
 - 🔭 Currently surviving on coffee and questionable life choices                                                                                                                                                     
 - 🌱 Learning: how to function on 6 hours of sleep                                                                                                                                                                   
-- 💬 Ask me about: CS144, OS, or why weekends are a myth                                                                                                                                                             
 - ⚡ Fun fact: my TODO list is longer than my remaining lifespan                                                                                                                                                     
                                                                                                                                                                                                                      
 ![Profile views](https://komarev.com/ghpvc/?username=Pacooral&label=Profile%20views&color=0e75b6&style=flat)                                                                                                         
