@@ -1,8 +1,28 @@
--  Hi, I’m @Pacooral
--  I’m currently learning CS144 & OS
--  You can reach me on Edawn_zhang@outlook.com 
-
-<!---
-Pacooral/Pacooral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @Pacooral                                                                                                                                                                                                  
+- ~~I’m currently learning CS144 & OS~~ (archived, gone but not forgotten)                                                                                                                                           
+- Currently doing 10-to-10 shifts. Basically a corporate workhorse.                                                                                                                                                  
+- You can reach me on Edawn_zhang@outlook.com                                                                                                                                                                        
+                                                                                                                                                                                                                     
+### Current status                                                                                                                                                                                                   
+                                                                                                                                                                                                                     
+```text                                                                                                                                                                                                              
+[██████████░░░░░░░░░░]  learning                                                                                                                                                                                     
+[████████████████████]  working                                                                                                                                                                                      
+[░░░░░░░░░░░░░░░░░░░░]  sleeping                                                                                                                                                                                     
+```                                                                                                                                                                                                                  
+                                                                                                                                                                                                                     
+- 🔭 Currently surviving on coffee and questionable life choices                                                                                                                                                     
+- 🌱 Learning: how to function on 6 hours of sleep                                                                                                                                                                   
+- 💬 Ask me about: CS144, OS, or why weekends are a myth                                                                                                                                                             
+- ⚡ Fun fact: my TODO list is longer than my remaining lifespan                                                                                                                                                     
+                                                                                                                                                                                                                     
+![Profile views](https://komarev.com/ghpvc/?username=Pacooral&label=Profile%20views&color=0e75b6&style=flat)                                                                                                         
+                                                                                                                                                                                                                     
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pacooral&show_icons=true&hide_title=true&theme=default)                                                                                          
+                                                                                                                                                                                                                     
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pacooral&layout=compact&theme=default)                                                                                               
+                                                                                                                                                                                                                     
+<!---                                                                                                                                                                                                                
+Pacooral/Pacooral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.                                                                                                  
+You can click the Preview link to take a look at your changes.                                                                                                                                                     
+---> 
